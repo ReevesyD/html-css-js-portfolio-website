@@ -199,12 +199,17 @@ section {
     text-align: center;
 }
 
+.icon.profile-icon {
+  cursor: default;
+}
+
 #socials-container {
     display: flex;
     justify-content: center;
     margin-top: 1rem;
     gap: 1rem;
 }
+
 
 /* ICONS */
 .icon {
